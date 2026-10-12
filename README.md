@@ -56,7 +56,5 @@ This project demonstrates how Excel and SQL Server can be used to transform raw 
 
 Skills Demonstrated
 
-Data Cleaning | Excel | SQL Server | PivotTables | KPI Analysis | Revenue Analysis | Data Validation | Business Insights
-
-Data Cleaning | Excel | SQL Server | PivotTables | KPI Analysis | Revenue Analysis | Data Validation | Business Insights
+Data Cleaning | Excel | SQL Server | PivotTables | KPI Analysis | Revenue Analysis | Data Validation | Business Insights.
 
